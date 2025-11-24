@@ -33,6 +33,9 @@ Discount Logic: Add functionality for coupon codes or student discounts.
 Author
 Developed by [Himanshu Saurabh]
 Student at VIT BHOPAL UNIVERSITY
-<img width="418" height="520" alt="Screenshot 2025-11-24 at 17 00 40" src="https://github.com/user-attachments/assets/55c2b0b5-d4e3-471b-92d2-ec72d400fd48" />
-<img width="344" height="153" alt="Screenshot 2025-11-24 at 17 02 12" src="https://github.com/user-attachments/assets/c7b21c22-ceb1-4ad8-b0b1-4578661caf27" />
-<img width="418" height="520" alt="Screenshot 2025-11-24 at 17 00 40" src="https://github.com/user-attachments/assets/ab237688-bc14-406d-9d90-865fc3d56248" />
+
+<img width="513" height="810" alt="Screenshot 2025-11-24 at 16 58 57" src="https://github.com/user-attachments/assets/625909e9-69c4-4348-9ac6-0e4be7aa0851" />
+<img width="344" height="153" alt="Screenshot 2025-11-24 at 17 02 12" src="https://github.com/user-attachments/assets/9face8b4-eaf8-490f-bf5a-3cf511d51a91" />
+<img width="418" height="520" alt="Screenshot 2025-11-24 at 17 00 40" src="https://github.com/user-attachments/assets/231cc32b-d8f2-4af7-8ed1-0cbb7c495c55" />
+
+
