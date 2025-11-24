@@ -3,9 +3,9 @@ A polished and friendly command-line billing system where customers can add prod
 <br>
 VIT Market Checkout System </br>
 Project Description
-The VIT Market Checkout System acts as a digital Point of Sale (POS) terminal. It allows a cashier to enter products and prices dynamically, handles errors (like invalid prices), and generates a professional, tax-inclusive receipt at the end of the transaction.
+The VIT Market Checkout System acts as a digital Point of Sale (POS) terminal. It allows a cashier to enter products and prices dynamically, handles errors (like invalid prices), and generates a professional, tax-inclusive receipt at the end of the transaction. <br>
 
-Key Features
+Key Features </br>
 Dynamic Interaction: The system greets the user and assigns a random cashier (Himanshu, Aryan, Priyanshu, or Jainam) for a personalized touch.
 Robust Input Validation:
 Prevents empty product names.
@@ -15,19 +15,19 @@ Professional Receipt Generation: Uses Python's f-string formatting to align text
 Automated Calculations: Automatically calculates subtotal, applies an 8% tax rate, and computes the final total.
 Simulated Realism: Includes a "printing" delay effect using the time module.
 
-Technologies Used
+Technologies Used </br>
 Language: Python 3.x
 Modules:
 random: For random cashier selection.
 time: To simulate printer delay. 
 
-How to Run
+How to Run </br>
 Prerequisites: Ensure you have Python installed on your system.
 Save the file: Save your Python code as main.py (or any name you prefer).
 Run the script: Open your terminal or command prompt and type:
 <!-- end list -->
 
-Future Improvements
+Future Improvements </br>
 Inventory System: Connect to a dictionary of pre-set items so prices look up automatically.
 Save to File: Export the receipt to a .txt file instead of just printing to the console.
 Discount Logic: Add functionality for coupon codes or student discounts.
